@@ -1,6 +1,6 @@
 <?php
-$host = 'sql107.infinityfree.com';
-$dbname = 'if0_41939127_handmadehub_db';
+$host = 'host';
+$dbname = 'dbname';
 $username = 'username';
 $password = 'password';
 $conn = new mysqli($host, $username, $password, $dbname);
